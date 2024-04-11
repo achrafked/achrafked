@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achrafked
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning javascript & npdejs 
+- 🌱 I’m currently learning javascript & nodejs 
 - 💞️ I’m looking to collaborate on exciting web projects
 - 📫 How to reach me achraf.keddour@etu.enp-oran.dz / achrafkeddour@gmail.com
 - 😄 Pronouns: AK 
